@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **My Grafana setup?**
 
-- 💬 Ask me about **My homeserver**
+- 💬 Ask me about **My homeserver** lol
 
 - ⚡ Fun fact **I like my homeserver**
 
